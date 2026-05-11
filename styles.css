@@ -471,8 +471,8 @@ main {
   font-size: clamp(3.3rem, 6vw, 5rem);
   line-height: 0.98;
   letter-spacing: -0.05em;
-  color: #f0a500;
-  text-shadow: 0 6px 20px rgba(240, 165, 0, 0.3);
+  color: #ffc84a;
+  text-shadow: 0 6px 20px rgba(255, 200, 74, 0.3);
 }
 
 .hero-role {
