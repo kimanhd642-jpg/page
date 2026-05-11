@@ -177,6 +177,11 @@ button, a.btn { font: inherit; }
   color: #000000;
 }
 
+[data-theme='dark'] .contact-card span,
+[data-theme='dark'] .contact-card a {
+  color: #ffc84a;
+}
+
 main {
   width: min(1180px, calc(100% - 2rem));
   margin: 0 auto;
