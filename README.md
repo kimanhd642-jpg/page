@@ -35,6 +35,10 @@ Giao diện thân thiện với nhà tuyển dụng: bố cục rõ ràng, dễ 
 Đảm bảo khả năng hiển thị tốt trên nhiều thiết bị (responsive);
 Có tối thiểu một yếu tố tương tác (ví dụ: hiệu ứng chuyển động, hiệu ứng hover, chuyển đổi giao diện sáng/tối). với background sau màu xanh dương vàng và hoa hướng dương đung đưa, rơi xuống.
 
+Tạo mèo Tom 
+
+Tạo lâu đài Marie Antoinette
+
 # Mô tả quá trình chỉnh sửa kết quả AI:
 Sau khi AI tạo giao diện website ban đầu, em tiếp tục chỉnh sửa màu sắc chữ để phù hợp hơn với phong cách cá nhân bằng cách sử dụng tone xanh dương và vàng làm chủ đạo.
 Em bổ sung background bầu trời xanh, hiệu ứng hoa hướng dương đung đưa và cánh hoa rơi để tăng cảm giác sinh động và nghệ thuật cho website.
