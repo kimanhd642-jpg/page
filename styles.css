@@ -843,7 +843,7 @@ main {
   background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(255,255,255,0.78));
 }
 
-.skill-card:hover .skill-icon {
+..skill-card:hover .skill-icon {
   transform: translateY(-4px);
 }
 
@@ -858,6 +858,13 @@ main {
   color: var(--primary);
   font-size: 1.15rem;
   font-weight: 800;
+  animation: float-icon 4s ease-in-out infinite;
+}
+
+@keyframes float-icon {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
   transition: transform 0.35s ease;
 }
 
