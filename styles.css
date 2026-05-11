@@ -161,6 +161,22 @@ button, a.btn { font: inherit; }
 [data-theme='dark'] .theme-toggle .dark-mode { display: inline; }
 [data-theme='dark'] .theme-toggle .light-mode { display: none; }
 
+[data-theme='dark'] .section-heading::after {
+  background: linear-gradient(90deg, rgba(121, 184, 255, 0.8), rgba(255, 216, 109, 0.9));
+}
+
+[data-theme='dark'] .project-info h3,
+[data-theme='dark'] .skill-card h3,
+[data-theme='dark'] .skill-visual-copy h3 {
+  color: #000000;
+}
+
+[data-theme='dark'] .project-info p,
+[data-theme='dark'] .skill-card p,
+[data-theme='dark'] .skill-visual-copy p {
+  color: #000000;
+}
+
 main {
   width: min(1180px, calc(100% - 2rem));
   margin: 0 auto;
