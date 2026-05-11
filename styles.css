@@ -182,6 +182,14 @@ button, a.btn { font: inherit; }
   color: #ffc84a;
 }
 
+[data-theme='dark'] #contact .section-heading span {
+  color: #79b8ff;
+}
+
+[data-theme='dark'] .section-heading span {
+  color: #ffc84a;
+}
+
 main {
   width: min(1180px, calc(100% - 2rem));
   margin: 0 auto;
